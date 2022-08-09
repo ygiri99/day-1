@@ -1,0 +1,17 @@
+1.      
+              HTTP 1.1 vs  HTTP 2
+
+   HTTP2 is much faster and more reliable than HTTP 1.1
+
+HTTP 1.1 is in plain text format for requests and responses.
+HTTP 2 is in binary format encapsulation of requests and responses.
+
+
+
+2.
+         object and its represention in javascript
+         
+    In javascript object is an unordered collection of related data types.
+    They are in the form
+                          key:value  (pairs)
+ always in this key:value  representation.                                 
